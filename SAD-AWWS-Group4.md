@@ -43,12 +43,19 @@
 
 ## II. Mô tả tóm tắt bài toán:
 ### 1. Sự cần thiết, lợi ích khi giải quyết bài toán:
-sự 
+1.1. **Sự cần thiết:** 
 <p>Phần mềm được phát triển cho một trạm thời tiết hoang dã để giúp theo dõi khí hậu và cải thiện độ chính xác của dự báo thời tiết ở các vùng xa xôi. Giải quyết các vấn đề:</p>
   - Nhiều khu vực xa xôi không có cơ sở hạ tầng về điện, giao thông và truyền thông.
   - Biến đổi khí hậu đang diễn ra trên toàn cầu, và việc theo dõi thời tiết và khí hậu ở các khu vực xa xôi là cần thiết để hiểu rõ hơn về ảnh hưởng của nó.
   - Các thông tin thời tiết chính xác và kịp thời giúp các nhà dự báo thời tiết, nhà nghiên cứu và các tổ chức chính phủ lên kế hoạch và ứng phó với các hiện tượng thời tiết cực đoan.
   - Việc bảo trì thiết bị tại các khu vực xa xôi có thể khó khăn và tốn kém. Hệ thống tự động hóa có thể giảm thiểu sự cần thiết phải bảo trì thường xuyên.
-
+1.2. **Lợi ích:**
+  - Tăng cường năng lực thu thập dữ liệu: Có thể thu thập và lưu trữ dữ liệu thời tiết từ nhiều khu vực khác nhau, giúp cải thiện độ chính xác của dự báo thời tiết và phân tích khí hậu.
+  - Tiết kiệm chi phí: Giảm chi phí vận hành và bảo trì nhờ vào thiết kế tự động và khả năng tự phục hồi của hệ thống.
+  - Hỗ trợ nghiêm cứu khí hậu: Cung cấp dữ liệu quan trọng cho các nhà nghiên cứu về khí hậu, giúp hiểu rõ hơn về các xu hướng và biến đổi trong môi trường.
+  - Tăng cường an ninh và an toàn: Cung cấp thông tin thời tiết cần thiết cho các hoạt động ngoài trời, giúp bảo vệ con người và tài sản trong các tình huống thời tiết cực đoan.
+  - Khả năng tái cấu hình và cập nhật: Hệ thống có thể tự tái cấu hình và cập nhật phần mềm, đảm bảo tính linh hoạt và khả năng thích ứng với các thay đổi và yêu cầu mới.
+  - Khả năng phát triển bền vững: Sử dụng năng lượng tái tạo và công nghệ thông minh, giúp giảm thiểu tác động đến môi trường và hỗ trợ phát triển bền vững.
+### 2. Các yêu cầu chức năng:
 
 
